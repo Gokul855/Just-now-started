@@ -1,8 +1,14 @@
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 2384e2f4efcbed927f2636c09ba9a8a0c9d221cc
 Hi Thisis a addon that i am trying to add the contents
 
 This is a next add on
 Welcomes to the end of the file and rewriting fo the file
+<<<<<<< HEAD
 Any ways am adding the lines into the code using vm functioN
+=======
+>>>>>>> 2384e2f4efcbed927f2636c09ba9a8a0c9d221cc
